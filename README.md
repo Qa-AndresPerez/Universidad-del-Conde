@@ -37,16 +37,16 @@ Se detectaron fallos en procesos críticos relacionados con la inscripción de a
 
 Contexto del proyecto
 
-Se realizó la validación de una aplicación web con el objetivo de asegurar su correcto funcionamiento antes de su liberación a producción. El sistema incluía múltiples funcionalidades críticas como registro de usuarios, navegación entre módulos y ejecución de procesos internos.
+Se realizó la validación de una plataforma educativa utilizada para la gestión de alumnos, cursos y sesiones en línea. El objetivo fue asegurar la correcta operación de los procesos académicos y administrativos dentro del sistema.
 
 Análisis
 
-Durante el proceso de pruebas, se ejecutaron pruebas funcionales y de regresión sobre los principales flujos del sistema. Se diseñaron y ejecutaron casos de prueba enfocados en validar el comportamiento esperado del sistema.
+Se ejecutaron pruebas funcionales sobre módulos clave como inscripción de alumnos, seguimiento de cursos y gestión de información académica. También se realizaron pruebas en ambientes QA, Staging y Producción para validar el comportamiento del sistema en diferentes etapas.
 
-Se detectaron inconsistencias en la navegación, errores en formularios y fallos en la validación de datos. Además, se realizaron pruebas en diferentes navegadores (Chrome, Firefox, Edge) para verificar compatibilidad.
+Se detectaron errores en procesos de inscripción, inconsistencias en la visualización de datos y fallos en la actualización de información. Para validar la integridad de los datos, se realizaron consultas en MySQL.
 
-Los defectos encontrados fueron documentados con pasos claros de reproducción, facilitando su corrección por parte del equipo de desarrollo.
+Asimismo, se dio seguimiento a incidencias reportadas, asegurando su documentación y resolución.
 
 Conclusiones principales
 
-El proyecto permitió identificar errores críticos antes de la liberación del sistema, contribuyendo a mejorar la calidad del producto y la experiencia del usuario. La ejecución de pruebas en diferentes escenarios y navegadores ayudó a garantizar la estabilidad y correcto funcionamiento de la aplicación.
+El proyecto permitió mejorar la estabilidad de la plataforma educativa al identificar y corregir fallos en procesos críticos. La validación de datos y el seguimiento de incidencias contribuyeron a optimizar la experiencia de los usuarios y asegurar la confiabilidad del sistema.
